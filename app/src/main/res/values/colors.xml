@@ -7,4 +7,6 @@
     <color name="darkGrey">#858585</color>
     <color name="orange">#fed442</color>
     <color name="purple">#673AB7</color>
+    <color name="activeTextColor">#FF5722</color> <!-- Example active color -->
+    <color name="inactiveTextColor">#9E9E9E</color> <!-- Example inactive color -->
 </resources>
